@@ -1,0 +1,9 @@
+FastAPI
+SQLAlchemy
+langchain
+scikit-learn
+pydantic
+python-dotenv
+uvicorn
+numpy
+requests
